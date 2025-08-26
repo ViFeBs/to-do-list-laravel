@@ -14,10 +14,15 @@ php artisan serve
 para iniciar api
 
 a partir desse ponto você já pode testar as seguintes rotas com o postman:
+
 GET: http://127.0.0.1:8000/api/task
+
 POST: http://127.0.0.1:8000/api/task
+
 PUT: http://127.0.0.1:8000/api/task/{id}
+
 DELETE: http://127.0.0.1:8000/api/task/{id}
+
 
 ou pode iniciar o frontend usando
 
